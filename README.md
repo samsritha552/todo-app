@@ -10,5 +10,5 @@ A simple python To-Do list application
 1. Install Python 3
 2. Run the script using:
 python todo.py
-##Author
+## Author
 Samsritha
